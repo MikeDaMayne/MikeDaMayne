@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikeDaMayne
 - 👀 I’m interested in Website and Game Development, but I am still choosing 😄
 - 😁 I am a 16-year-old amateur
-- 🌱 I’m currently learning C++, React ...
+- 🌱 I’m currently learning Python, C++, React and Machine Learning
 - 😄 Pronouns: Da man!
 - ⚡ Fun fact: I AM HIM!
 
